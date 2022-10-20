@@ -12,8 +12,8 @@ function App() {
         <Form instructor="Enrique" />
 
         {/* CLASS VS FUNCTIONAL COMPONENTS  */}
-        <WelcomeFunctional name="Susi"/>
-        <WelcomeClass name="Vinay"/>
+        {/* <WelcomeFunctional name="Susi"/> */}
+        {/* <WelcomeClass name="Vinay"/> */}
       </header>
     </div>
   );

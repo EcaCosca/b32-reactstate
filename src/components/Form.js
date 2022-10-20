@@ -9,7 +9,7 @@ const Form = ({instructor}) => {
     
     // setStudents() is a function that allows me to change the value of students in a simple maner
     const addStudents = () => {
-        setStudents([...students,'Roxi'])
+        setStudents(["Roxi", ...students])
     }
 
   return (
